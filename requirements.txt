@@ -1,0 +1,6 @@
+pyserial
+keyboard
+pandas
+numpy
+matplotlib
+svgwrite
